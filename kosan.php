@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <!-- Basic -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <!-- Mobile Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <!-- Site Metas -->
+  <meta name="keywords" content="" />
+  <meta name="description" content="" />
+  <meta name="author" content="" />
+
+  <title>E-Kosan</title>
+
+  <!-- slider stylesheet -->
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css" />
+
+  <!-- bootstrap core css -->
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+
+  <!-- fonts style -->
+  <link href="https://fonts.googleapis.com/css?family=Baloo+Chettan|Poppins:400,600,700&display=swap" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet" />
+  <!-- responsive style -->
+  <link href="css/responsive.css" rel="stylesheet" />
+</head>
+
+<body class="sub_page">
+
+  <div class="hero_area">
+    <!-- header section strats -->
+    <header class="header_section">
+      <div class="container-fluid">
+        <nav class="navbar navbar-expand-lg custom_nav-container ">
+          <a class="navbar-brand" href="index.php">
+            <img src="images/logo-rumah.png" alt="">
+            <span>
+              E-Kosan
+            </span>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </nav>
+      </div>
+    </header>
+    <!-- end header section -->
+  </div>
+
+  <!-- item section -->
+
+
+  <!-- end item section -->
+
+
+  <!-- price section -->
+
+  <section class="price_section layout_padding">
+    <div class="container">
+      <div class="heading_container">
+        <h2>
+          Daftar Harga Kosan
+        </h2>
+      </div>
+      <p class="login-register-text"><a href="logout.php">Logout</a></p>
+      <div class="price_container">
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan 65
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/65.jpeg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>750.000</span>
+            </h5>
+            <a href="kosan65.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan 99
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/99/99.jpeg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>550.000</span>
+            </h5>
+            <a href="kosan99.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan GC2
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/gc2.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>400.000</span>
+            </h5>
+            <a href="kosangc2.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Ibu Tintin
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/tintin.jpeg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>600.000</span>
+            </h5>
+            <a href="tintin.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Ibu Cucu
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/cucu.jpeg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>450.000</span>
+            </h5>
+            <a href="ibucucu.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Ibu Teti
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/ibuteti/tetii.jpeg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>600.000</span>
+            </h5>
+            <a href="ibuteti.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Ibu Rus
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/iburus/rus.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>600.000</span>
+            </h5>
+            <a href="iburus.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Bumi Pasundan
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/pasundan.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>850.000</span>
+            </h5>
+            <a href="bumipas.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Jerman Warudoyong
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/jerman.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>525.000</span>
+            </h5>
+            <a href="jerman.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Rindang Betah
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/rindang.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>620.000</span>
+            </h5>
+            <a href="rindang.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Chalysta
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/chalysta.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>1.000.000</span>
+            </h5>
+            <a href="chalysta.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Bapak anwar
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/anwar.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>550.000</span>
+            </h5>
+            <a href="anwar.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan 41
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/kosan41.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>600.000</span>
+            </h5>
+            <a href="kosan41.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Cipelang Leutik
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/cipelang.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>650.000</span>
+            </h5>
+            <a href="cipelang.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="name">
+            <h6>
+              Kosan Bapak Djemikin
+            </h6>
+          </div>
+          <div class="img-box">
+            <img src="images/djemikin.jpg" alt="">
+          </div>
+          <div class="detail-box">
+            <h5>
+              Rp<span>650.000</span>
+            </h5>
+            <a href="djemikin.php">
+              Lihat Detail
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="d-flex justify-content-center">
+        
+      </div>
+    </div>
+  </section>
+
+
+  <!-- end price section -->
+
+
+
+
+
+  <!-- info section -->
+  <section class="info_section ">
+    <div class="container">
+      <div class="info_container">
+        <div class="row">
+          <div class="col-md-3">
+            <div class="info_logo">
+              <a href="">
+                <img src="images/logo-rumah.png" alt="">
+                <span>
+                  E-Kosan
+                </span>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="info_contact">
+              <a href="">
+                <img src="images/location.png" alt="">
+                <span>
+                  Alamat
+                </span>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="info_contact">
+              <a href="">
+                <img src="images/phone.png" alt="">
+                <span>
+                  +62 853 8774 6542
+                </span>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-3">
+            <div class="info_contact">
+              <a href="">
+                <img src="images/mail.png" alt="">
+                <span>
+                  bot@gmail.com
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="info_form">
+          <form action="">
+            <div class="email_box">
+              <label for="email2">Silahkan Masukan Email Anda</label>
+              <input type="text" id="email2">
+            </div>
+            <div>
+              <button>
+                Kirim
+              </button>
+            </div>
+          </form>
+        </div>
+        <div class="info_social">
+          <div class="d-flex justify-content-center">
+            <h5 class="info_heading">
+              Follow Us
+            </h5>
+          </div>
+          <div class="social_box">
+            <a href="">
+              <img src="images/fb.png" alt="">
+            </a>
+            <a href="">
+              <img src="images/twitter.png" alt="">
+            </a>
+            <a href="">
+              <img src="images/linkedin.png" alt="">
+            </a>
+            <a href="">
+              <img src="images/insta.png" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- end info_section -->
+
+  <!-- footer section -->
+  <section class="container-fluid footer_section">
+    <p>
+      &copy; <span id="displayYear"></span> All Rights Reserved By
+      <a href="https://html.design/">Akagami(ali)</a>
+    </p>
+  </section>
+  <!-- footer section -->
+
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <script type="text/javascript" src="js/bootstrap.js"></script>
+  <script type="text/javascript" src="js/custom.js"></script>
+</body>
+
+</html>
